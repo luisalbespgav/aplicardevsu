@@ -13,6 +13,7 @@ Estos permiten mejorar la documentación de proyectos completos a fin de que la 
 
  
 Objetivo:
+
 Diseñar un Sistema de Banca por internet, que permita:
 	Crear clientes
 	Consultar Información de los clientes
@@ -23,6 +24,7 @@ Diseñar un Sistema de Banca por internet, que permita:
 
 
 Consideraciones:
+
 Realizaremos un Análisis y Diseño de un Sistema de Banca Electrónica Web de una entidad BP, considerando los siguientes aspectos:
 1.	Solo puede ser accedido por clientes del banco
 2.	Cuenta con un esquema de autenticación y autorización (Azure Entra ID)
