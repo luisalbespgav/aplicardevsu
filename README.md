@@ -10,7 +10,8 @@ Cuenta con cuatro niveles de abstracción, de ahí su nombre:
 	Nivel 4: Diagrama de Código (opcional)
 Estos permiten mejorar la documentación de proyectos completos a fin de que la audiencia pueda comprender en que consiste, como esta conformado y como se interrelaciona con otros sistemas o servicios.
 
- 
+
+ 
 Objetivo:
 Diseñar un Sistema de Banca por internet, que permita:
 	Crear clientes
@@ -19,6 +20,7 @@ Diseñar un Sistema de Banca por internet, que permita:
 	Realizar pagos con debido a cuenta
 	Configuración de cupos para transferencias
 	Consulta de movimientos Histórico
+
 
 Consideraciones:
 Realizaremos un Análisis y Diseño de un Sistema de Banca Electrónica Web de una entidad BP, considerando los siguientes aspectos:
