@@ -4,10 +4,12 @@ El modelo C4 es un enfoque visual para documentar y comunicar la arquitectura de
 Un buen diagrama de arquitectura de software facilita la comunicación a los equipos de desarrollo y producto, la idea principal es que los diagramas puedan ser entendidos e interpretados por equipos técnicos y no técnicos.
 
 Cuenta con cuatro niveles de abstracción, de ahí su nombre:
-	Nivel 1: Diagrama de Contexto. 
-	Nivel 2: Diagrama de Contenedores
-	Nivel 3: Diagrama de Componentes
-	Nivel 4: Diagrama de Código (opcional)
+
+*	Nivel 1: Diagrama de Contexto
+*	Nivel 2: Diagrama de Contenedores
+*	Nivel 3: Diagrama de Componentes
+*	Nivel 4: Diagrama de Código (opcional)
+
 Estos permiten mejorar la documentación de proyectos completos a fin de que la audiencia pueda comprender en que consiste, como esta conformado y como se interrelaciona con otros sistemas o servicios.
 
 
