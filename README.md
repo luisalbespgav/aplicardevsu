@@ -11,24 +11,17 @@ Cuenta con cuatro niveles de abstracción, de ahí su nombre:
 Estos permiten mejorar la documentación de proyectos completos a fin de que la audiencia pueda comprender en que consiste, como esta conformado y como se interrelaciona con otros sistemas o servicios.
 
 
-
  
 Objetivo:
 
 Diseñar un Sistema de Banca por internet, que permita:
 
-	Crear clientes
-
-	Consultar Información de los clientes
-
-	Realizar transferencias bancarias e interbancarias
-
-	Realizar pagos con debido a cuenta
-
-	Configuración de cupos para transferencias
-
-	Consulta de movimientos Histórico
-
+*	Crear clientes
+*	Consultar Información de los clientes
+*	Realizar transferencias bancarias e interbancarias
+*	Realizar pagos con debido a cuenta
+*	Configuración de cupos para transferencias
+*	Consulta de movimientos Histórico
 
 
 Consideraciones:
